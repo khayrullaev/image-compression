@@ -1,0 +1,286 @@
+{
+  "images": [
+    {
+      "id": "d3781bdc-1059-42be-8fb1-df4f087595c4",
+      "name": "c2aeb0fd8aa4b959ca85d4bb61da5c3b.jpg",
+      "url": "/uploads/d3781bdc-1059-42be-8fb1-df4f087595c4.jpg",
+      "size": 79285,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-02-28T07:17:15.209Z"
+    },
+    {
+      "id": "829c0807-aa25-407a-92e0-367e9f2ee253",
+      "name": "af893fd2ff53e33f53fcd227d0da650d.jpg",
+      "url": "/uploads/829c0807-aa25-407a-92e0-367e9f2ee253.jpg",
+      "size": 86549,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-02-28T07:19:14.823Z"
+    },
+    {
+      "id": "b0d25758-3913-4136-ba43-656b45ea4d9c",
+      "name": "af893fd2ff53e33f53fcd227d0da650d.jpg",
+      "url": "/uploads/b0d25758-3913-4136-ba43-656b45ea4d9c.jpg",
+      "size": 86549,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-02-28T08:13:05.784Z"
+    },
+    {
+      "id": "06b4d65b-31ff-46fc-b6b0-46e57f1ad022",
+      "name": "Elevator Lobby Design.jpeg",
+      "url": "/uploads/06b4d65b-31ff-46fc-b6b0-46e57f1ad022.jpeg",
+      "size": 93682,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-02-28T08:16:03.862Z"
+    },
+    {
+      "id": "a9b0f0ae-3bfb-41cc-9eca-416aa79f30a8",
+      "name": "2025-01-02 23.12.03.jpg",
+      "url": "/uploads/a9b0f0ae-3bfb-41cc-9eca-416aa79f30a8.jpg",
+      "size": 51118,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-03-01T02:13:12.989Z"
+    },
+    {
+      "id": "b288f22f-a455-402d-8b65-b0d7df534d39",
+      "name": "2025-01-02 23.12.03.jpg",
+      "url": "/uploads/b288f22f-a455-402d-8b65-b0d7df534d39.jpg",
+      "size": 51118,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-03-01T02:13:49.982Z"
+    },
+    {
+      "id": "c67ae279-7c93-4c90-9f5e-306d07f4a99d",
+      "name": "2025-01-02 23.12.03.jpg",
+      "url": "/uploads/c67ae279-7c93-4c90-9f5e-306d07f4a99d.jpg",
+      "size": 51118,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-03-01T02:13:58.895Z"
+    },
+    {
+      "id": "66e10881-31a2-4d1a-8c6b-bd2422066a8c",
+      "name": "Folio Design.jpeg",
+      "url": "/uploads/66e10881-31a2-4d1a-8c6b-bd2422066a8c.jpeg",
+      "size": 49239,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-03-01T02:54:12.821Z"
+    },
+    {
+      "id": "6ea4029b-6f82-457d-9b65-be7da05797d4",
+      "name": "af893fd2ff53e33f53fcd227d0da650d.jpg",
+      "url": "/uploads/6ea4029b-6f82-457d-9b65-be7da05797d4.jpg",
+      "size": 86549,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-03-01T03:12:48.999Z"
+    },
+    {
+      "id": "9dccb047-497e-4889-a653-80655fa61f0e",
+      "name": "2025-01-02 23.12.03.jpg",
+      "url": "/uploads/9dccb047-497e-4889-a653-80655fa61f0e.jpg",
+      "size": 51118,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-03-01T03:13:14.741Z"
+    },
+    {
+      "id": "4b3002b2-483d-4150-99c8-3062788539dd",
+      "name": "compressed-Elevator Lobby Design.jpeg",
+      "url": "/uploads/4b3002b2-483d-4150-99c8-3062788539dd.jpeg",
+      "size": 81817,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-03-02T03:28:22.804Z"
+    },
+    {
+      "id": "19a886ed-bd0e-4489-8cde-11bd61591218",
+      "name": "472583004_627365519871818_5612024200867258990_n.jpg",
+      "url": "/uploads/19a886ed-bd0e-4489-8cde-11bd61591218.jpg",
+      "size": 71926,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-03-02T03:30:59.795Z"
+    },
+    {
+      "id": "427a000a-91b4-474f-82af-851d8379611d",
+      "name": "Elevator Lobby Design.jpeg",
+      "url": "/uploads/427a000a-91b4-474f-82af-851d8379611d.jpeg",
+      "size": 93682,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-03-02T03:42:09.000Z"
+    },
+    {
+      "id": "0ded5dec-2479-455c-8af8-3020ce6c4655",
+      "name": "Pladis Global Offices - London _ Office Snapshots.jpeg",
+      "url": "/uploads/0ded5dec-2479-455c-8af8-3020ce6c4655.jpeg",
+      "size": 103365,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-03-02T09:06:00.382Z"
+    }
+  ],
+  "compressedImages": [
+    {
+      "id": "d3781bdc-1059-42be-8fb1-df4f087595c4-compressed",
+      "name": "c2aeb0fd8aa4b959ca85d4bb61da5c3b.jpg",
+      "url": "/compressed/d3781bdc-1059-42be-8fb1-df4f087595c4-compressed.jpg",
+      "size": 79285,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-02-28T07:17:15.649Z"
+    },
+    {
+      "id": "829c0807-aa25-407a-92e0-367e9f2ee253-compressed",
+      "name": "af893fd2ff53e33f53fcd227d0da650d.jpg",
+      "url": "/compressed/829c0807-aa25-407a-92e0-367e9f2ee253-compressed.jpg",
+      "size": 69658,
+      "format": "image/jpeg",
+      "width": 736,
+      "height": 657,
+      "createdAt": "2025-02-28T07:19:19.217Z"
+    },
+    {
+      "id": "b0d25758-3913-4136-ba43-656b45ea4d9c-compressed",
+      "name": "af893fd2ff53e33f53fcd227d0da650d.jpg",
+      "url": "/compressed/b0d25758-3913-4136-ba43-656b45ea4d9c-compressed.jpg",
+      "size": 69658,
+      "format": "image/jpeg",
+      "width": 736,
+      "height": 657,
+      "createdAt": "2025-02-28T08:13:09.712Z"
+    },
+    {
+      "id": "06b4d65b-31ff-46fc-b6b0-46e57f1ad022-compressed",
+      "name": "Elevator Lobby Design.jpeg",
+      "url": "/compressed/06b4d65b-31ff-46fc-b6b0-46e57f1ad022-compressed.jpeg",
+      "size": 81817,
+      "format": "image/jpeg",
+      "width": 736,
+      "height": 920,
+      "createdAt": "2025-02-28T08:16:08.635Z"
+    },
+    {
+      "id": "a9b0f0ae-3bfb-41cc-9eca-416aa79f30a8-compressed",
+      "name": "2025-01-02 23.12.03.jpg",
+      "url": "/compressed/a9b0f0ae-3bfb-41cc-9eca-416aa79f30a8-compressed.jpg",
+      "size": 38188,
+      "format": "image/jpeg",
+      "width": 564,
+      "height": 845,
+      "createdAt": "2025-03-01T02:13:17.798Z"
+    },
+    {
+      "id": "b288f22f-a455-402d-8b65-b0d7df534d39-compressed",
+      "name": "2025-01-02 23.12.03.jpg",
+      "url": "/compressed/b288f22f-a455-402d-8b65-b0d7df534d39-compressed.jpg",
+      "size": 38188,
+      "format": "image/jpeg",
+      "width": 564,
+      "height": 845,
+      "createdAt": "2025-03-01T02:13:53.023Z"
+    },
+    {
+      "id": "c67ae279-7c93-4c90-9f5e-306d07f4a99d-compressed",
+      "name": "2025-01-02 23.12.03.jpg",
+      "url": "/compressed/c67ae279-7c93-4c90-9f5e-306d07f4a99d-compressed.jpg",
+      "size": 38188,
+      "format": "image/jpeg",
+      "width": 564,
+      "height": 845,
+      "createdAt": "2025-03-01T02:14:01.727Z"
+    },
+    {
+      "id": "66e10881-31a2-4d1a-8c6b-bd2422066a8c-compressed",
+      "name": "Folio Design.jpeg",
+      "url": "/compressed/66e10881-31a2-4d1a-8c6b-bd2422066a8c-compressed.jpeg",
+      "size": 46090,
+      "format": "image/jpeg",
+      "width": 533,
+      "height": 800,
+      "createdAt": "2025-03-01T02:54:17.398Z"
+    },
+    {
+      "id": "6ea4029b-6f82-457d-9b65-be7da05797d4-compressed",
+      "name": "af893fd2ff53e33f53fcd227d0da650d.jpg",
+      "url": "/compressed/6ea4029b-6f82-457d-9b65-be7da05797d4-compressed.jpg",
+      "size": 69658,
+      "format": "image/jpeg",
+      "width": 736,
+      "height": 657,
+      "createdAt": "2025-03-01T03:12:53.570Z"
+    },
+    {
+      "id": "9dccb047-497e-4889-a653-80655fa61f0e-compressed",
+      "name": "2025-01-02 23.12.03.jpg",
+      "url": "/compressed/9dccb047-497e-4889-a653-80655fa61f0e-compressed.jpg",
+      "size": 38188,
+      "format": "image/jpeg",
+      "width": 564,
+      "height": 845,
+      "createdAt": "2025-03-01T03:13:17.712Z"
+    },
+    {
+      "id": "4b3002b2-483d-4150-99c8-3062788539dd-compressed",
+      "name": "compressed-Elevator Lobby Design.jpeg",
+      "url": "/compressed/4b3002b2-483d-4150-99c8-3062788539dd-compressed.jpeg",
+      "size": 81817,
+      "format": "image/jpeg",
+      "width": 0,
+      "height": 0,
+      "createdAt": "2025-03-02T03:28:23.204Z"
+    },
+    {
+      "id": "19a886ed-bd0e-4489-8cde-11bd61591218-compressed",
+      "name": "472583004_627365519871818_5612024200867258990_n.jpg",
+      "url": "/compressed/19a886ed-bd0e-4489-8cde-11bd61591218-compressed.jpg",
+      "size": 52797,
+      "format": "image/jpeg",
+      "width": 1080,
+      "height": 1346,
+      "createdAt": "2025-03-02T03:31:05.661Z"
+    },
+    {
+      "id": "427a000a-91b4-474f-82af-851d8379611d-compressed",
+      "name": "Elevator Lobby Design.jpeg",
+      "url": "/compressed/427a000a-91b4-474f-82af-851d8379611d-compressed.jpeg",
+      "size": 81817,
+      "format": "image/jpeg",
+      "width": 736,
+      "height": 920,
+      "createdAt": "2025-03-02T03:42:13.829Z"
+    },
+    {
+      "id": "0ded5dec-2479-455c-8af8-3020ce6c4655-compressed",
+      "name": "Pladis Global Offices - London _ Office Snapshots.jpeg",
+      "url": "/compressed/0ded5dec-2479-455c-8af8-3020ce6c4655-compressed.jpeg",
+      "size": 90075,
+      "format": "image/jpeg",
+      "width": 700,
+      "height": 1050,
+      "createdAt": "2025-03-02T09:06:04.936Z"
+    }
+  ]
+}
